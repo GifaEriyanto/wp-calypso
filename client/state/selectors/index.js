@@ -14,3 +14,4 @@
  */
 
 export canCurrentUser from './can-current-user';
+export isPrivateSite from './is-private-site';
